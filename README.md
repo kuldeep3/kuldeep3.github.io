@@ -1,6 +1,9 @@
-
-
 # kuldeep3.github.io
+![](https://img.shields.io/github/stars/kuldeep3/kuldeep3.github.io.svg?style=social)
+
+
+![](https://forthebadge.com/images/badges/uses-html.svg)
+![](https://forthebadge.com/images/badges/uses-css.svg)
 
 A frontend development using html and css
 
